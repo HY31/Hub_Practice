@@ -6,3 +6,6 @@ Console.WriteLine(c);
 
 int abc = a * b * c;
 Console.WriteLine(abc);
+
+
+string resume = "이어서 하기";
